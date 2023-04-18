@@ -1,8 +1,5 @@
 #This is my first file in Github
-#@vishnu Maragani 
 #Added through remote
-#Added through local repo
-#Hiiiiiiiiiiiiiiiiiiiiiii
 public class A
 {
    public static void main(String args[])
